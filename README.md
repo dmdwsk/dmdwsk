@@ -16,7 +16,7 @@ Full-Stack Developer
 <div align="center">
 
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmdwsk&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dmdwsk&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -45,7 +45,6 @@ Full-Stack Developer
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dmdwsk&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dmdwsk&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
+
