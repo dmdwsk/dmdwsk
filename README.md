@@ -58,13 +58,6 @@ Contributed to a prize-winning team project, delivering a functional solution wi
 **Stack:** Node.js + Express + MySQL | React + Vite + React Router  
 Full-stack CRUD application for managing **Users**, **Gym Classes**, and **Reservations** (many-to-many).
 
-**Highlights**
-- Many-to-many relation via `user_class_reservations` with extra fields: `status`, `checked_in`, `reserved_at`
-- CRUD for users/classes/reservations + detail views with related entities
-- Validation on both sides:
-  - frontend: required fields, numeric checks, enum values, datetime presence
-  - backend: format + consistency checks before DB writes
-- Business rule: reservation `user_id` / `gym_class_id` cannot be changed (delete & recreate)
 
 ---
 
@@ -73,13 +66,6 @@ Full-stack CRUD application for managing **Users**, **Gym Classes**, and **Reser
 **Stack:** Java 21 | Spring Boot (Web, Validation, Data JPA) | PostgreSQL | Liquibase  
 Spring Boot REST API for managing **customers** and **orders** with filtering, pagination, reporting, and bulk upload.
 
-**Highlights**
-- Layered architecture: Controller / Service / Repository / DTO
-- Filtered listing with pagination via JPA Specifications
-- CSV report generation for filtered orders
-- Bulk JSON upload with success/failure statistics
-- Liquibase migrations + seed data on startup
-- Centralized error handling using `@RestControllerAdvice` + `ProblemDetail`
 
 ---
 
