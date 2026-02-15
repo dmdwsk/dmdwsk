@@ -2,8 +2,8 @@
 
 # Denys Demydovskyi
 
-Computer Science Student at Polish-Japanese Academy of Information Technology (PJATK), Warsaw  
-Full-Stack Developer
+Computer Science Student at PJATK, Warsaw  
+Backend-focused Full-Stack Developer (Java | Spring Boot | Node.js)
 
 <a href="https://www.linkedin.com/in/denys-demydovskyi/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
