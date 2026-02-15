@@ -11,15 +11,6 @@ Backend-focused Full-Stack Developer (Java | Spring Boot | Node.js)
 
 </div>
 
----
-
-## About
-- Backend-first full-stack developer focused on **clean REST APIs**, validation, and maintainable architecture
-- Working with **Java + Spring Boot** and **Node.js + Express**
-- Databases: **PostgreSQL / MySQL / MongoDB**
-- Tools: **Docker**, **Git**, migrations (**Liquibase**)
-
----
 
 ## Tech Stack
 
@@ -49,4 +40,3 @@ Backend-focused Full-Stack Developer (Java | Spring Boot | Node.js)
 🏆 **Goldman Sachs Hackathon – 3rd Place**  
 Contributed to a prize-winning team project, delivering a functional solution within strict time constraints, with emphasis on architecture, implementation quality, and presentation.
 
----
