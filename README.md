@@ -46,6 +46,13 @@ Backend-focused Full-Stack Developer (Java | Spring Boot | Node.js)
 
 ---
 
+## Achievements
+
+🏆 **Goldman Sachs Hackathon – Prize-winning project participant**  
+Collaborated in a team to design and deliver a working solution under time constraints, focusing on problem-solving, clean implementation, and presentation.
+
+---
+
 ## Featured Projects
 
 ### 🏋️ Gym Reservation System (Full-Stack)
