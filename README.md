@@ -37,8 +37,6 @@ Backend-focused Full-Stack Developer (Java | Spring Boot | Node.js)
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
-![React Router](https://img.shields.io/badge/React%20Router-111111?style=for-the-badge&logo=reactrouter)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
